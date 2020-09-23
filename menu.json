@@ -1,0 +1,59 @@
+{"title": "Меню", "MenuGroups": [
+	{"groupName": "settings", "type": "menu", "title": "Настройки", "items": [
+		{"name": "settings_audio", "type": "item", "title": "Аудио"},
+		{"name": "settings_video", "type": "item", "title": "Видео"},
+		{"name": "change_playlist", "type": "item", "title": "Плейлисты"},
+		{"name": "edit_favorits", "type": "item", "title": "Редактировать фаворитные списки каналов"},
+		{"name": "edit_favorits", "type": "item", "title": "Основной канал при старте: 124"},
+		{"name": "reset_all_settings", "type": "item", "title": "Сбросить все настройки по умолчанию"}
+	]},
+	{"groupName": "channel_list", "type": "menu", "title": "Список каналов", "items": [
+		{"name": "show_channel_list", "type": "command"}
+	]},
+	{"groupName": "favorite", "type": "menu", "title": "Фаворитные списки", "items": [
+		{"name": "cinema", "type": "item", "title": "Кино"},
+		{"name": "news", "type": "item", "title": "Новости"},
+		{"name": "kids", "type": "item", "title": "Детский"},
+		{"name": "music", "type": "item", "title": "Музыка"},
+		{"name": "religion", "type": "item", "title": "Религия"},
+		{"name": "cognitive", "type": "item", "title": "Познавательный"},
+		{"name": "fashion", "type": "item", "title": "Мода"},
+		{"name": "bussines", "type": "item", "title": "Бизнес"},
+		{"name": "other", "type": "item", "title": "Другое"}
+	]},
+	{"groupName": "videos", "type": "menu", "title": "Видеозаписи", "items": [
+		{"name": "show_videos", "type": "command"}
+	]},
+	{"groupName": "info", "type": "menu", "title": "Инфо", "items": [
+		{"name": "show_app_license", "type": "item", "title": "Лицензионное соглашение"},
+		{"name": "show_app_version", "type": "item", "title": "Версия ПО"}
+	]},
+	{"groupName": "change_playlist", "type": "submenu", "title": "Плейлисты", "items": [
+		{"name": "show_playlist_lists", "type": "command"}
+	]},
+	{"groupName": "show_app_license", "type": "submenu", "title": "Лицензионное соглашение", "items": [
+		{"name": "version", "type": "textfile", "file": "license.txt"}
+	]},
+	{"groupName": "show_app_version", "type": "submenu", "title": "Версия ПО", "items": [
+		{"name": "version", "type": "text", "text": "Версия: 1.0.0.1"}
+	]},
+	{"groupName": "settings_audio", "type": "submenu", "title": "Настройка Аудио", "items": [
+		{"name": "cinema", "type": "item", "title": "Частота: 44000 mHz"},
+		{"name": "cinema", "type": "item", "title": "Кодек: ogg"},
+		{"name": "cinema", "type": "item", "title": "Каналы: 2 Стерео"}
+	]},
+	{"groupName": "settings_video", "type": "submenu", "title": "Настройка Видео", "items": [
+	
+	]},
+	{"groupName": "edit_favorits", "type": "submenu", "title": "Редактор фаворитных списков", "items": [
+		{"name": "cinema", "type": "item", "title": "Кино"},
+		{"name": "news", "type": "item", "title": "Новости"},
+		{"name": "kids", "type": "item", "title": "Детский"},
+		{"name": "music", "type": "item", "title": "Музыка"},
+		{"name": "religion", "type": "item", "title": "Религия"},
+		{"name": "cognitive", "type": "item", "title": "Познавательный"},
+		{"name": "fashion", "type": "item", "title": "Мода"},
+		{"name": "bussines", "type": "item", "title": "Бизнес"},
+		{"name": "other", "type": "item", "title": "Другое"}
+	]}
+]}

@@ -1,0 +1,38 @@
+{"buttons":
+	{"digits": {
+		"0": "0x3866b8877",
+		"1": "0x3866b20df",
+		"2": "0x3866b10ef",
+		"3": "0x3866b40bf",
+		"4": "0x3866bf00f",
+		"5": "0x3866ba05f",
+		"6": "0x3866b609f",
+		"7": "0x3866b30cf",
+		"8": "0x3866bb04f",
+		"9": "0x3866b50af"
+	},
+	"commands": [
+		{"name": "poweroff", "code": "0x3866bc23d", "desc": ""},
+		{"name": "reboot", "code": "0x3866bc03f", "desc": ""},
+		{"name": "chUp", "code": "0x3866b906f", "desc": ""},
+		{"name": "chDown", "code": "0x3866be01f", "desc": ""},
+		{"name": "volUp", "code": "0x3866b708f", "desc": ""},
+		{"name": "volDown", "code": "0x3866bc837", "desc": ""},
+		{"name": "mute", "code": "0x3866be817", "desc": ""},
+		{"name": "stop", "code": "0x3866ba857", "desc": ""},
+		{"name": "play", "code": "0x3866b6897", "desc": ""},
+		{"name": "enter", "code": "0x3866b48b7", "desc": ""},
+		{"name": "mute", "code": "0x3866be817", "desc": ""},
+		{"name": "cancel", "code": "0x3866b08f7", "desc": ""},
+		{"name": "red", "code": "0x3866b38c7", "desc": ""},
+		{"name": "green", "code": "0x3866bb847", "desc": ""},
+		{"name": "yellow", "code": "0x3866b7887", "desc": ""},
+		{"name": "blue", "code": "0x3866bf807", "desc": ""},
+		{"name": "up", "code": "0x3866b18e7", "desc": ""},
+		{"name": "down", "code": "0x3866b9867", "desc": ""},
+		{"name": "left", "code": "0x3866b58a7", "desc": ""},
+		{"name": "right", "code": "0x3866bd827", "desc": ""},
+		{"name": "source", "code": "0x3866b807f", "desc": ""},
+		{"name": "rec", "code": "0x3866b28d7", "desc": ""}
+	]}
+}

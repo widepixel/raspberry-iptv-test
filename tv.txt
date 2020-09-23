@@ -1,0 +1,34 @@
+Button codes regarding tv IR controller:
+Button Code - power: 0x3866bc23d
+Button Code - source: 0x3866b807f
+Button Code - zoom: 0x3866bd02f
+Button Code - shut down: 0x3866bc03f
+Button Code - 1: 0x3866b20df
+Button Code - 2: 0x3866b10ef
+Button Code - 3: 0x3866b40bf
+Button Code - 4: 0x3866bf00f
+Button Code - 5: 0x3866ba05f
+Button Code - 6: 0x3866b609f
+Button Code - 7: 0x3866b30cf
+Button Code - 8: 0x3866bb04f
+Button Code - 9: 0x3866b50af
+Button Code - 0: 0x3866b8877
+Button Code - enter: 0x3866b48b7
+Button Code - cancel: 0x3866b08f7
+Button Code - ch+: 0x3866b906f
+Button Code - ch-: 0x3866be01f
+Button Code - vol+: 0x3866b708f
+Button Code - vol-: 0x3866bc837
+Button Code - mute: 0x3866be817
+Button Code - rec: 0x3866b28d7
+Button Code - stop: 0x3866ba857
+Button Code - play: 0x3866b6897
+Button Code - mute: 0x3866be817
+Button Code - up: 0x3866b18e7
+Button Code - down: 0x3866b9867
+Button Code - left: 0x3866b58a7
+Button Code - right: 0x3866bd827
+Button Code - red: 0x3866b38c7
+Button Code - green: 0x3866bb847
+Button Code - yellow: 0x3866b7887
+Button Code - blue: 0x3866bf807
